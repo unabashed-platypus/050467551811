@@ -1,0 +1,35 @@
+/* General Body Styles */
+body {
+    font-family: 'Helvetica', Arial, sans-serif; /* Use Helvetica, fall back to Arial or sans-serif */
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Header Styles */
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Helvetica', Arial, sans-serif; /* Consistent font in header */
+}
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Helvetica', Arial, sans-serif; /* Consistent font in main content */
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Helvetica', Arial, sans-serif; /* Consistent font in footer */
+}
